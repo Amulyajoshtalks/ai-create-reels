@@ -14,7 +14,7 @@ export default async function handler(req, res) {
 
     const bucketName = process.env.AWS_S3_BUCKET_NAME;
     const region = process.env.AWS_REGION;
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
+    const baseUrl = "https://ai-create-reels.vercel.app/" || 'http://localhost:3000';
 
     if (!bucketName || !region) {
       throw new Error('Missing AWS environment variables');
