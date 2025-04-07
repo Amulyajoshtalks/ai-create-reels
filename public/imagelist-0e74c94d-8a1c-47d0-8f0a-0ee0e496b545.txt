@@ -1,0 +1,12 @@
+file '/Users/josh/amulya/aireelsCreator/ai-reels-creator/public/img-9721a17e-49ac-4623-ac1b-f546e83f16d3.jpg'
+duration 2
+file '/Users/josh/amulya/aireelsCreator/ai-reels-creator/public/img-7db47e15-e42c-477b-90c7-8872a49793c3.jpg'
+duration 2
+file '/Users/josh/amulya/aireelsCreator/ai-reels-creator/public/img-255af642-6778-476c-a421-d8da4b554bd6.jpg'
+duration 2
+file '/Users/josh/amulya/aireelsCreator/ai-reels-creator/public/img-a99d3fb7-015c-4e9a-aa68-d28c53db6885.jpg'
+duration 2
+file '/Users/josh/amulya/aireelsCreator/ai-reels-creator/public/img-0533941d-9e5d-497c-b04f-e30c98ccb035.jpg'
+duration 2
+file '/Users/josh/amulya/aireelsCreator/ai-reels-creator/public/img-f3d7c17d-b97b-47c1-a9a7-3acb72fc6f09.jpg'
+duration 2
